@@ -3,13 +3,13 @@
         "Authors": [
             {
                 "Email": "oscar3010@outlook.com",
-                "Name": "Iris Skaug",
+                "Name": "Iris Skaug"
             }
         ],
         "Category": "",
         "Description": "An attempt at modernizing KDE",
         "EnabledByDefault": true,
-        "Id": "default",
+        "Id": "sweettea",
         "License": "GPL-3.0",
         "Name": "Sugar Honey Ice & Tea",
         "Version": "6.14.0",
